@@ -1,0 +1,10 @@
+{
+    "platformName": "Android",
+    "appium:platformVersion": 13,
+    "appium:deviceName": "XXXXXXXXXXXX",
+    "appium:appPackage": "com.android.chrome",
+    "appium:appActivity": "com.google.android.apps.chrome.Main",
+    "appium:noReset": false, 
+    "appium:automationName": "UiAutomator2",
+    "appium:autoGrantPermissions": true
+}
